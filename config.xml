@@ -1,0 +1,14 @@
+<?xml version = '1.0' encoding = 'UTF-8' ?>
+<widget
+    android-versionCode = '1'
+    id = 'com.SaiCodes.CyberSecurityAwareness'
+    version = '1.0.0'
+    xmlns = 'https://www.w3.org/ns/widgets'>
+
+    <name>Cyber Security Awareness</name>
+    <description>Shows you the ways in which you can prevent cyber criminals from hacking you</description>
+    <author>Saiprasad</author>
+
+    <preference name = 'orientation' value = 'portrait'/>
+
+</widget>
